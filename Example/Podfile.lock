@@ -1,0 +1,16 @@
+PODS:
+  - MTIQKeyboardManager (0.1.0)
+
+DEPENDENCIES:
+  - MTIQKeyboardManager (from `../`)
+
+EXTERNAL SOURCES:
+  MTIQKeyboardManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MTIQKeyboardManager: 04b0438b192d7e7ec123133a895aca4da830612e
+
+PODFILE CHECKSUM: 48b70192e590319a255f6bf66f8113e766645b5a
+
+COCOAPODS: 1.6.1
