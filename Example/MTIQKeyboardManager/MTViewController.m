@@ -6,6 +6,7 @@
 //  Copyright (c) 2019 BestiOSDev. All rights reserved.
 //
 
+#import "MTIQKeyboardManager.h"
 #import "MTViewController.h"
 
 @interface MTViewController ()
@@ -17,7 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    [IQKeyboardManager sharedManager];
 }
 
 - (void)didReceiveMemoryWarning

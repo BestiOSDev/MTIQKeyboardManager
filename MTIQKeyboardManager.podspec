@@ -29,7 +29,7 @@ else
     s.ios.vendored_frameworks = 'MTIQKeyboardManager/Framework/MTIQKeyboardManager.framework'
 end
 
-s.resource = 'DIQKeyboardManager/Resource/IQKeyboardManager.bundle'
+s.resource = 'MTIQKeyboardManager/Resource/IQKeyboardManager.bundle'
 s.requires_arc = true
 s.frameworks = 'Foundation' , 'UIKit' , 'QuartzCore' , 'CoreGraphics'
 s.xcconfig = { 'OTHER_LDFLAGS' => '-ObjC' }
