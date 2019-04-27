@@ -6,7 +6,8 @@
 //  Copyright (c) 2019 BestiOSDev. All rights reserved.
 //
 
-#import "MTIQKeyboardManager.h"
+
+#import <MTIQKeyboardManager/MTIQKeyboardManager.h>
 #import "MTViewController.h"
 
 @interface MTViewController ()
