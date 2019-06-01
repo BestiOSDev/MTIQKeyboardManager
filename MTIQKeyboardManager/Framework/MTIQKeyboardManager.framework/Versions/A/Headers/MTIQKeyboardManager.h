@@ -2,12 +2,8 @@
 //  MTIQKeyboardManager.h
 //  MTIQKeyboardManager
 //
-//  Created by dzb on 2019/6/1.
-//  Copyright © 2019 大兵布莱恩特. All rights reserved.
+//  Created by dzb on 2019/4/27.
 //
-
-
-///静态库
 
 #import <UIKit/UIKit.h>
 

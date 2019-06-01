@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
 	if ENV['IS_SOURCE']
 		s.source_files = 'MTIQKeyboardManager/Classes/**/*{h,m}'
 		s.public_header_files = 'MTIQKeyboardManager/Classes/Public/**/*.h'
-		else
+	else
 		s.ios.vendored_frameworks = 'MTIQKeyboardManager/Framework/MTIQKeyboardManager.framework'
 	end
 	
