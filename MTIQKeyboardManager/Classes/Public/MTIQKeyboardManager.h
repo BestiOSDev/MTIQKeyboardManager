@@ -7,13 +7,13 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for DIQKeyboardManager.
-FOUNDATION_EXPORT double DIQKeyboardManagerVersionNumber;
+//! Project version number for MTIQKeyboardManager.
+FOUNDATION_EXPORT double MTIQKeyboardManagerVersionNumber;
 
-//! Project version string for DIQKeyboardManager.
-FOUNDATION_EXPORT const unsigned char DIQKeyboardManagerVersionString[];
+//! Project version string for MTIQKeyboardManager.
+FOUNDATION_EXPORT const unsigned char MTIQKeyboardManagerVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <DIQKeyboardManager/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import <MTIQKeyboardManager/PublicHeader.h>
 
-#import "IQKeyboardManager.h"
-#import "IQKeyboardManagerConstants.h"
+#import <MTIQKeyboardManager/IQKeyboardManager.h>
+#import <MTIQKeyboardManager/IQKeyboardManagerConstants.h>
