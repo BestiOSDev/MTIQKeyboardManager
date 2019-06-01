@@ -7,7 +7,8 @@
 //
 
 #import "MTViewController.h"
-#import "MTIQKeyboardManager.h"
+#import <MTIQKeyboardManager/MTIQKeyboardManager.h>
+//#import "MTIQKeyboardManager.h"
 
 @interface MTViewController ()
 
