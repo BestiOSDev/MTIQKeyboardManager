@@ -2,8 +2,8 @@
 //  MTViewController.h
 //  MTIQKeyboardManager
 //
-//  Created by BestiOSDev on 04/27/2019.
-//  Copyright (c) 2019 BestiOSDev. All rights reserved.
+//  Created by ZhaoBingDong on 06/01/2019.
+//  Copyright (c) 2019 ZhaoBingDong. All rights reserved.
 //
 
 @import UIKit;

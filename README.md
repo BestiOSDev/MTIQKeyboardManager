@@ -1,6 +1,6 @@
 # MTIQKeyboardManager
 
-[![CI Status](https://img.shields.io/travis/BestiOSDev/MTIQKeyboardManager.svg?style=flat)](https://travis-ci.org/BestiOSDev/MTIQKeyboardManager)
+[![CI Status](https://img.shields.io/travis/ZhaoBingDong/MTIQKeyboardManager.svg?style=flat)](https://travis-ci.org/ZhaoBingDong/MTIQKeyboardManager)
 [![Version](https://img.shields.io/cocoapods/v/MTIQKeyboardManager.svg?style=flat)](https://cocoapods.org/pods/MTIQKeyboardManager)
 [![License](https://img.shields.io/cocoapods/l/MTIQKeyboardManager.svg?style=flat)](https://cocoapods.org/pods/MTIQKeyboardManager)
 [![Platform](https://img.shields.io/cocoapods/p/MTIQKeyboardManager.svg?style=flat)](https://cocoapods.org/pods/MTIQKeyboardManager)
@@ -22,7 +22,7 @@ pod 'MTIQKeyboardManager'
 
 ## Author
 
-BestiOSDev, 1060545231@qq.com
+ZhaoBingDong, dzb8818082@163.com
 
 ## License
 

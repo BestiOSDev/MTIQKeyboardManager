@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MTIQKeyboardManager'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'DIQKeyboardManager. 键盘管理类'
 
   s.description      = <<-DESC
@@ -24,7 +24,7 @@ s.author           = { 'ZhaoBingDong' => 'dzb8818082@163.com' }
   s.ios.deployment_target = '8.0'
 if ENV['IS_SOURCE']
     s.source_files = 'MTIQKeyboardManager/Classes/**/*{h,m}'
-    s.public_header_files = 'MTIQKeyboardManager/Classes/**/*.h'
+    s.public_header_files = 'MTIQKeyboardManager/Classes/Public/**/*.h'
 else
     s.ios.vendored_frameworks = 'MTIQKeyboardManager/Framework/MTIQKeyboardManager.framework'
 end
