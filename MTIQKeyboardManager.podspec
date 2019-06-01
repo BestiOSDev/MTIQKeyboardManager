@@ -10,11 +10,9 @@ Pod::Spec.new do |s|
 	s.name             = 'MTIQKeyboardManager'
 	s.version          = '0.1.5'
 	s.summary          = 'DIQKeyboardManager. 键盘管理类'
-	
 	s.description      = <<-DESC
-	DIQKeyboardManager. 键盘管理类 静态库 framework ....
+		DIQKeyboardManager. 键盘管理类 静态库 framework ....
 	DESC
-	
 	s.homepage         = 'https://github.com/BestiOSDev/MTIQKeyboardManager'
 	# s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 	s.license          = { :type => 'MIT', :file => 'LICENSE' }

@@ -2,8 +2,7 @@
 //  MTIQKeyboardManager.h
 //  MTIQKeyboardManager
 //
-//  Created by dzb on 2019/6/1.
-//  Copyright © 2019 大兵布莱恩特. All rights reserved.
+//  Created by dzb on 2019/4/27.
 //
 
 #import <UIKit/UIKit.h>
@@ -15,7 +14,6 @@ FOUNDATION_EXPORT double MTIQKeyboardManagerVersionNumber;
 FOUNDATION_EXPORT const unsigned char MTIQKeyboardManagerVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <MTIQKeyboardManager/PublicHeader.h>
-
 
 #import <MTIQKeyboardManager/IQKeyboardManager.h>
 #import <MTIQKeyboardManager/IQKeyboardManagerConstants.h>
