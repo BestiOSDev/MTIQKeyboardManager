@@ -391,8 +391,7 @@ NSInteger const kIQPreviousNextButtonToolbarTag     =   -1005;
 -(void)setKeyboardDistanceFromTextField:(CGFloat)keyboardDistanceFromTextField
 {
     //Can't be less than zero. Minimum is zero.
-	_keyboardDistanceFromTextField = MAX(keyboardDistanceFromTextField, 0);
-
+	_keyboardDistanceFromTextField = keyboardDistanceFromTextField;
     [self showLog:[NSString stringWithFormat:@"keyboardDistanceFromTextField: %.2f",_keyboardDistanceFromTextField]];
 }
 
