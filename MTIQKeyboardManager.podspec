@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 	s.name             = 'MTIQKeyboardManager'
-	s.version          = '0.1.3'
+	s.version          = '0.1.4'
 	s.summary          = 'DIQKeyboardManager. 键盘管理类'
 	
 	s.description      = <<-DESC

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "MTIQKeyboardManager"
-  s.version = "0.1.2"
+  s.version = "0.1.3"
   s.summary = "DIQKeyboardManager. \u{952e}\u{76d8}\u{7ba1}\u{7406}\u{7c7b}"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"ZhaoBingDong"=>"dzb8818082@163.com"}
