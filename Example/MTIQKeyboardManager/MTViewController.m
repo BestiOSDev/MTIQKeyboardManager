@@ -7,7 +7,7 @@
 //
 
 #import "MTViewController.h"
-#import <MTIQKeyboardManager/MTIQKeyboardManager.h>
+#import "MTIQKeyboardManager.h"
 
 @interface MTViewController ()
 
@@ -18,7 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	
+	[IQKeyboardManager sharedManager].keyboardDistanceFromTextField = 0.0f;
+	[IQKeyboardManager sharedManager].enable = NO;
+
 }
 
 

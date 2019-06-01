@@ -17,5 +17,5 @@ FOUNDATION_EXPORT const unsigned char MTIQKeyboardManagerVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <MTIQKeyboardManager/PublicHeader.h>
 
 
-#import <MTIQKeyboardManager/IQKeyboardManager.h>
-#import <MTIQKeyboardManager/IQKeyboardManagerConstants.h>
+#import "IQKeyboardManager.h"
+#import "IQKeyboardManagerConstants.h"

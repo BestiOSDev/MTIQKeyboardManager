@@ -18,9 +18,8 @@
   "platforms": {
     "ios": "9.0"
   },
-  "ios": {
-    "vendored_frameworks": "MTIQKeyboardManager/Framework/MTIQKeyboardManager.framework"
-  },
+  "source_files": "MTIQKeyboardManager/Classes/**/*{h,m}",
+  "public_header_files": "MTIQKeyboardManager/Classes/Public/**/*.h",
   "resources": "MTIQKeyboardManager/Resource/IQKeyboardManager.bundle",
   "requires_arc": true,
   "frameworks": [

@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MTIQKeyboardManager: 7c068ca1e17bbf49f7e42d5bf3bf5a970a2799e7
+  MTIQKeyboardManager: 45c0418ff952fd03e0876d26fe4fa5abec77b501
 
 PODFILE CHECKSUM: 5e76a534550e78dbb7d36c0acc62ee9bd13a62b1
 
