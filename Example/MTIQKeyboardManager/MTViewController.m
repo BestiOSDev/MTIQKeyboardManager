@@ -19,8 +19,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	[IQKeyboardManager sharedManager].keyboardDistanceFromTextField = -20.0f;
-	[IQKeyboardManager sharedManager].enable = YES;
+//    [IQKeyboardManager sharedManager].keyboardDistanceFromTextField = -20.0f;
+//    [IQKeyboardManager sharedManager].enable = YES;
 }
 
 

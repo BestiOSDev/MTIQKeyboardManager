@@ -1,5 +1,5 @@
 PODS:
-  - MTIQKeyboardManager (0.1.9)
+  - MTIQKeyboardManager (0.2.0)
 
 DEPENDENCIES:
   - MTIQKeyboardManager (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MTIQKeyboardManager: 8826eb9c30871547f413ff7449a4895299e75e54
+  MTIQKeyboardManager: 540f0491d5122db7b45699dc7ef75eb3c0192870
 
 PODFILE CHECKSUM: 5e76a534550e78dbb7d36c0acc62ee9bd13a62b1
 
