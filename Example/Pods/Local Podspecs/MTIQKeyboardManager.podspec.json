@@ -1,6 +1,6 @@
 {
   "name": "MTIQKeyboardManager",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "DIQKeyboardManager. 键盘管理类",
   "description": "DIQKeyboardManager. 键盘管理类 静态库 framework ....",
   "homepage": "https://github.com/BestiOSDev/MTIQKeyboardManager",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/BestiOSDev/MTIQKeyboardManager.git",
-    "tag": "0.1.6"
+    "tag": "0.1.7"
   },
   "platforms": {
     "ios": "9.0"
