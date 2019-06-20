@@ -1,6 +1,0 @@
-framework module MTIQKeyboardManager {
-  umbrella header "MTIQKeyboardManager.h"
-
-  export *
-  module * { export * }
-}
